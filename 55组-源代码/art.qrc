@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>PKU_map.png</file>
+        <file>BoyaTower.jpg</file>
+        <file>Library.jpg</file>
+        <file>WestGate.jpg</file>
+        <file>WeimingLake.jpg</file>
+        <file>Huabiao.jpg</file>
+        <file>pkuHall.jpg</file>
+        <file>ClassicRoutine.jpg</file>
+        <file>EssenceRoutine.jpg</file>
+    </qresource>
+</RCC>
